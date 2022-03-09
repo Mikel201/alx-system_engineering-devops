@@ -1,2 +1,2 @@
 #!/bin/bash
-EXPORT PATH=[D[D[D[Dexport[D[D[D[D[D[[[C[C[C[C[C[C[C[C[C[C[C[Cexport PATH=$PATH:/action
+PATH=$PATH:/action
