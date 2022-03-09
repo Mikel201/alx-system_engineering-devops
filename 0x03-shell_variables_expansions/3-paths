@@ -1,0 +1,2 @@
+#!/bin/bash
+echo PATH[D[D[D[D$PATH | tr ":" "\n" | wc -1
