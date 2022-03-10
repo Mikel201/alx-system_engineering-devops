@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1iacta[D[D[D[D[D iacta >> iactaZ[?64;1;2;4;6;9;15;21;22;28;29cZ[?64;1;2;4;6;9;15;21;22;28;29c
+tail -n 1 iacta >> iacta
