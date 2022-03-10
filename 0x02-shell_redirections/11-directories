@@ -1,0 +1,2 @@
+#!/bin/bash
+find ./* -type d -print |wc -1[D[D[D[D[D wc -1
