@@ -1,1 +1,1 @@
-This is a read me file for rdirection
+My first readme for the shell directory
